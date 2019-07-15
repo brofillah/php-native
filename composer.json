@@ -1,0 +1,13 @@
+{
+    "name": "masfar/phpdasar",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "usmanhalalit/pixie": "2.*@dev",
+        "mpdf/mpdf": "^8.0"
+    }
+}
